@@ -1,5 +1,7 @@
 # LCD Big digits
-Create large numbers on your Arduino-controlled LCD display. See YouTube video #23 https://www.youtube.com/RalphBacon
+Create large numbers on your Arduino-controlled LCD display. 
+
+# See YouTube video #23 https://www.youtube.com/RalphBacon
 
 Using an LCD display is very easy using the I2C communications bus (just two wires plus power). Creating custom digits that take up two lines is also very easy and I show you exactly how to do that here. 
 
